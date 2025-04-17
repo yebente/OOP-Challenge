@@ -29,11 +29,11 @@ name = input("Please enter the name of your pet: ")
 userPet = pet.Pet(name)
 print("==============================================")
 print(f"Congratulations! You have created a pet named {userPet.name}.")
-print("==============================================")
 print("Now, let's see what you can do with your pet.")
 
 while True:
-    print("\nAvailable options:")
+    print("\n==============================================")
+    print("Available options:")
     print("1. Feed your pet")
     print("2. Play with your pet")
     print("3. Teach your pet a trick")
@@ -54,19 +54,19 @@ while True:
     if userChoice == 1:
         loading("feed", userPet.name)
         # Simulate feeding the pet
-        status = userPet.feed()
-        # print("Your pet has been fed.") #add in feed method
+        userPet.eat()
+        userPet.get_status()
     elif userChoice == 2:
         loading("play", userPet.name)
         # Simulate playing with the pet
         userPet.play()
+        userPet.get_status()
     elif userChoice == 3:
         trick = input("Please enter the trick you want to teach your pet: ")
         loading("teach", userPet.name)
-        userPet.teach_trick(trick)
-        # print(f"You taught your pet the trick: {trick}.") #add in feed method
+        #tricks implementation comes here
     elif userChoice == 4:
-        print(userPet.get_status())
+        userPet.get_status()
     elif userChoice == 5:
         print("Thank you for using the Pet Simulator!")
         break
