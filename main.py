@@ -13,11 +13,11 @@ def loading(action, petName=""):
         print(f"Teaching {petName} the new trick", end="")
     else:
         print(f"{petName} is {action}ing", end="")
-    for i in range(3):
-        print(".", end="")
-        time.sleep(1)
-    time.sleep(2) 
-    print("\n")
+        for i in range(3):
+            print(".", end="")
+            # time.sleep(1)
+        time.sleep(1) 
+        print("")
 
 # Main program starts here
 print("==============================================")
@@ -33,7 +33,7 @@ print("==============================================")
 print("Now, let's see what you can do with your pet.")
 
 while True:
-    print("Available options:")
+    print("\nAvailable options:")
     print("1. Feed your pet")
     print("2. Play with your pet")
     print("3. Teach your pet a trick")
