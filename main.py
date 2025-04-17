@@ -10,7 +10,7 @@ import time
 def loading(action, petName=""):
     """Simulate loading time for pet actions."""
     if action == "teach":
-        print(f"Teaching {userPet.name} the new trick", end="")
+        print(f"Teaching {petName} the new trick", end="")
     else:
         print(f"{petName} is {action}ing", end="")
     for i in range(3):
@@ -54,18 +54,17 @@ while True:
     if userChoice == 1:
         loading("feed", userPet.name)
         # Simulate feeding the pet
-        userPet.feed()
-        print("Your pet has been fed.")
+        status = userPet.feed()
+        # print("Your pet has been fed.") #add in feed method
     elif userChoice == 2:
         loading("play", userPet.name)
         # Simulate playing with the pet
         userPet.play()
-        print("You played with your pet.")
     elif userChoice == 3:
         trick = input("Please enter the trick you want to teach your pet: ")
         loading("teach", userPet.name)
         userPet.teach_trick(trick)
-        print(f"You taught your pet the trick: {trick}.")
+        # print(f"You taught your pet the trick: {trick}.") #add in feed method
     elif userChoice == 4:
         print(userPet.get_status())
     elif userChoice == 5:
@@ -73,4 +72,9 @@ while True:
         break
     else:
         print("Invalid choice. Please try again.")
-    print("==============================================")
+        print("==============================================")
+# Simulate closing the simulator
+print("Closing the Pet simulator", end="")
+for i in range(3):
+    print(".", end="")
+    time.sleep(1)          
