@@ -119,7 +119,7 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 
 - **Role**: [Code testing, Review correct code workability and Error Correction/debugging.]
 - **Email**: [r28081999m@gmail.com]
-- **GitHub**: [@Rockjunior]
+- **GitHub**: [@Rockjunior](https://github.com/Rockjunior)
 
 #### [Add Your Name Here]
 
