@@ -13,7 +13,6 @@ Welcome to the **Pet Simulator**, a fun and interactive program that allows user
 - [Video Demonstration](#video-demonstration)
 - [Technologies Used](#technologies-used)
 - [Authors and Contributors](#authors-and-contributors)
-- [Contact Information](#contact-information)
 - [Future Improvements](#future-improvements)
 
 ---
@@ -78,7 +77,7 @@ This project is beginner-friendly and demonstrates the use of:
 
 </div>
 
-Video Demonstration
+## Video Demonstration
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 Watch the full demonstration of the Pet Simulator in action:
