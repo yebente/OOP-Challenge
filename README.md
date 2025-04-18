@@ -79,7 +79,7 @@ This project is beginner-friendly and demonstrates the use of:
 
 ## Video Demonstration
 
-<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/d67b7a664abe6fcc1a5bb38fe26ab9f546fe1f07/screen_record/PLP_Group-433_Pet_Simulator_Display.gif" alt="Feeding Your Pet" width="400" height="500">
+<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screen_record%2FPLP_Group-433_Pet_Simulator_Display.gif" alt="Feeding Your Pet" width="400" height="500">
 
 Click [here](https://youtube.com/shorts/5usvX45GkQQ?si=tSH2lZdAIDaAIwCQ) to watch the complete video.
 
