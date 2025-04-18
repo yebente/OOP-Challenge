@@ -121,7 +121,11 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 - **Email**: [r28081999m@gmail.com](mailto:r28081999m@gmail.com)
 - **GitHub**: [@Rockjunior](https://github.com/Rockjunior)
 
-> **Note**: All group members are encouraged to update their details in this section.
+#### Evan Omanga
+
+- **Role**: ReadMe.md file documentation
+- **Email**: [evanwayodi19@gmail.com](mailto:evanwayodi19@gmail.com)
+- **GitHub**: [Evan19-CoDe](https://github.com/Evan19-CoDe)
 
 ## Future Improvements
 
