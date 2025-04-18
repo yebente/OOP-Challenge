@@ -125,8 +125,6 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 
 ## Future Improvements
 
-Here are some exciting ideas for enhancing the **Pet Simulator** in the future:
-
 - **Graphical User Interface (GUI)**: Introduce a visually appealing GUI to improve user interaction and experience.
 - **Additional Pet Actions**: Expand the range of actions, such as grooming your pet or taking it to the vet for checkups.
 - **Scoring System**: Implement a scoring mechanism to track and reward users for taking good care of their pet.
