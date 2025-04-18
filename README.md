@@ -115,6 +115,12 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 - **Email**: [lisanzatabitha@gmail.com](mailto:lisanzatabitha@gmail.com)
 - **GitHub**: [@lisanzatabby](https://github.com/lisanzaTabby)
 
+#### [RODGERS MARAGIA]
+
+- **Role**: [Code testing, Review correct code workability and Error Correction/debugging.]
+- **Email**: [r28081999m@gmail.com]
+- **GitHub**: [@Rockjunior]
+
 #### [Add Your Name Here]
 
 - **Role**: [Your Role]
