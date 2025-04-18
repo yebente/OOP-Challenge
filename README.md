@@ -121,7 +121,7 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 
 > **Note**: All group members are encouraged to update their details in this section.
 
-## Future Improvements 🚀
+## Future Improvements
 
 Here are some exciting ideas for enhancing the **Pet Simulator** in the future:
 
