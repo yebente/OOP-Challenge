@@ -79,7 +79,7 @@ This project is beginner-friendly and demonstrates the use of:
 
 ## Video Demonstration
 
-<iframe width="560" height="315" src=https://youtube.com/shorts/yQpyn4a_Tf4?si=vHPTnxL2-ufQ7dsk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<video width="560" height="315" src=https://youtube.com/shorts/yQpyn4a_Tf4?si=vHPTnxL2-ufQ7dsk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen</video>
 Watch the full demonstration of the Pet Simulator in action:
 Watch the Video
 
