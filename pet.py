@@ -1,3 +1,5 @@
+import time
+
 class Pet:
     def __init__(self, name):
         self.name = name
@@ -18,25 +20,50 @@ class Pet:
      else:
          self.hunger = 0
      self.happiness = min(self.happiness + 1, 10)
+     time.sleep(2)
      print(f"{self.name} has eaten.")
+     time.sleep(1)
 
     def sleep(self):
      """adds energy by 5 but doesn't go beyond 10"""
      self.energy = min(self.energy + 5, 10)
+     time.sleep(1)
      print(f"{self.name} has slept.")
 
     def play(self):
         """Decreases energy by 2 and increase happiness by 1"""
         if self.energy >= 2:
             self.energy -= 2
-            self.happiness = min(self.happiness + 1, 10)
+            self.happiness = min(self.happiness + 2, 10)
             self.hunger = min(self.hunger + 1, 10)
             print("You played with your pet.")
         else:
             print(f"{self.name} is too tired to play.")
+    
+    def sleep(self):
+        """Increases energy by 5 but doesn't go beyond 10"""
+        self.energy = min(self.energy + 5, 10)
+        print(f"{self.name} has slept.")
 
-    #This will be used to print the status as required
     def get_status(self):
-        print(f"\n{self.name}'s current status: \nHunger: {self.hunger}\nEnergy: {self.energy}\nHappiness: {self.happiness}\nTricks: {', '.join(self.tricks) if self.tricks else 'None'}")
-    
-    
+        """Prints the current status of the pet"""
+        print(f"\n{self.name}'s current status: \nHunger: {self.hunger}\nEnergy: {self.energy}\nHappiness: {self.happiness}\nTricks: {', '.join(self.tricks) if self.tricks else f'{self.name} doesn\'t know any tricks yet.'}")
+        time.sleep(5)
+
+    def train(self, trick):
+        """Teach the pet a new trick"""
+        if trick in self.tricks:
+            print(f"{self.name} already knows '{trick}'.")
+        else:
+            self.tricks.append(trick)
+            print(f"\nSuccessfully taught {self.name} the trick '{trick}'!")
+            time.sleep(4)
+            
+    def show_tricks(self):
+        # Show the pet's tricks
+        if not self.tricks:
+            print(f"{self.name} doesn't know any tricks yet.")
+        else:
+            print(f"\n{self.name}'s tricks:")
+            for i, trick in enumerate(self.tricks, 1):
+                print(f"{i}. {trick}")
