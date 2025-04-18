@@ -30,7 +30,7 @@ name = input("Please enter the name of your pet: ")
 
 userPet = pet.Pet(name)
 print("==============================================")
-print(f"Congratulations! You have created a pet named {userPet.name}.")
+print(f"🐶 Congratulations! You have created a pet named {userPet.name}.")
 time.sleep(2)
 print("Now, let's see what you can do with your pet.")
 time.sleep(3)
@@ -38,12 +38,12 @@ time.sleep(3)
 while True:
     print("\n==============================================")
     print("Available options:")
-    print("1. Feed your pet")
-    print("2. Play with your pet")
-    print("3. Teach your pet a trick")
-    print("4. Check your pet's status")
-    print("5. Allow your pet to sleep")
-    print("6. Display all tricks your pet knows")
+    print("1. 🍖 Feed your pet")
+    print("2. ⚽ Play with your pet")
+    print("3. ✍️  Teach your pet a trick")
+    print("4. 📃 Check your pet's status")
+    print("5. 😴 Allow your pet to sleep")
+    print("6. 📃 Display all tricks your pet knows")
     print("7. Exit")
     print("==============================================")
     try:
@@ -67,7 +67,7 @@ while True:
         userPet.play()
         userPet.get_status()
     elif userChoice == 3:
-        trick = input("Please enter the trick you want to teach your pet: ")
+        trick = input("🎃 Please enter the trick you want to teach your pet: ")
         loading("teach", userPet.name)
         # Simulate teaching the pet a trick
         if trick == "":
