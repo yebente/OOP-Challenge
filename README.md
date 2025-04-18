@@ -79,9 +79,11 @@ This project is beginner-friendly and demonstrates the use of:
 
 ## Video Demonstration
 
-<video width="560" height="315" src=https://youtube.com/shorts/yQpyn4a_Tf4?si=vHPTnxL2-ufQ7dsk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen</video>
-Watch the full demonstration of the Pet Simulator in action:
-Watch the Video
+<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/d67b7a664abe6fcc1a5bb38fe26ab9f546fe1f07/screen_record/PLP_Group_433_Pet_Simulator_Display.gif" alt="Feeding Your Pet" width="400" height="500">
+
+![Watch the complete Video](https://youtube.com/shorts/yQpyn4a_Tf4?si=vHPTnxL2-ufQ7dsk)
+
+
 
 ## Technologies Used
 
