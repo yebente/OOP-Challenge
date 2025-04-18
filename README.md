@@ -71,9 +71,9 @@ This project is beginner-friendly and demonstrates the use of:
 
 <img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screenshots%2Fmain_menu.png" alt="Main Menu" width="400" height="500">
 
-<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screenshots%2Ffeeding_pet.png" alt="Feeding Your Pet" width="400" height="700">
+<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screenshots%2Ffeeding_pet.png" alt="Feeding Your Pet" width="400" height="500">
 
-<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/main/screenshots/teaching_tricks.png" alt="Teaching Tricks" width="400" height="700">
+<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screenshots%2Fteaching_tricks.png" alt="Teaching Tricks" width="400" height="500">
 
 </div>
 
