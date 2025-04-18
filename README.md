@@ -69,7 +69,7 @@ This project is beginner-friendly and demonstrates the use of:
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
-<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/main/screenshots/main_menu.png" alt="Main Menu" width="400" height="700">
+<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screenshots%2Fmain_menu.png" alt="Main Menu" width="400" height="700">
 
 <img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/main/screenshots/feeding_pet.png" alt="Feeding Your Pet" width="400" height="700">
 
