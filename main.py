@@ -67,7 +67,7 @@ while True:
         userPet.play()
         userPet.get_status()
     elif userChoice == 3:
-        trick = input("Please enter the trick you want to teach your pet: ")
+        trick = input("🎃 Please enter the trick you want to teach your pet: ")
         loading("teach", userPet.name)
         # Simulate teaching the pet a trick
         if trick == "":
