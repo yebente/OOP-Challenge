@@ -102,7 +102,7 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 
 ### Group 433 Members
 
-#### Emma Obelenge
+#### Emmanuel Obelenge
 
 - **Role**: Lead Developer
 - **Email**: [obeleemmanuel@gmail.com](mailto:obeleemmanuel@gmail.com)
