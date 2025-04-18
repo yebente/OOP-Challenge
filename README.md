@@ -109,11 +109,11 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 - **Email**: [obeleemmanuel@gmail.com](mailto:obeleemmanuel@gmail.com)
 - **GitHub**: [@emma-obelenge](https://github.com/emma-obelenge)
 
-#### [Add Your Name Here]
+#### Tabitha Tsisika Lisanza
 
-- **Role**: [Your Role]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Role**: Code Testing
+- **Email**: [lisanzatabitha@gmail.com](mailto:lisanzatabitha@gmail.com)
+- **GitHub**: [@lisanzatabby](https://github.com/lisanzaTabby)
 
 #### [Add Your Name Here]
 
