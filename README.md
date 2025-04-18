@@ -84,19 +84,43 @@ Video Demonstration
 Watch the full demonstration of the Pet Simulator in action:
 Watch the Video
 
-Technologies Used
-Programming Language: Python
-Libraries:
-time (for delays and animations)
-Authors and Contributors
-This project was developed as part of the PLP Academy group assignment. Below are the contributors:
+## Technologies Used
 
-Group 433 Members
-Emma Obelenge
+### Programming Language
 
-Role: Lead Developer
-Email: obeleemmanuel@gmail.com
-GitHub: @emma-obelenge
+- **Python**
+
+### Libraries
+
+- **time**: Used for delays and animations.
+
+---
+
+## Authors and Contributors
+
+This project was developed as part of the **PLP Academy Group Assignment**. Below are the contributors:
+
+### Group 433 Members
+
+#### Emma Obelenge
+
+- **Role**: Lead Developer
+- **Email**: [obeleemmanuel@gmail.com](mailto:obeleemmanuel@gmail.com)
+- **GitHub**: [@emma-obelenge](https://github.com/emma-obelenge)
+
+#### [Add Your Name Here]
+
+- **Role**: [Your Role]
+- **Email**: [Your Email]
+- **GitHub**: [Your GitHub Profile]
+
+#### [Add Your Name Here]
+
+- **Role**: [Your Role]
+- **Email**: [Your Email]
+- **GitHub**: [Your GitHub Profile]
+
+> **Note**: All group members are encouraged to update their details in this section.
 
 ## Future Improvements 🚀
 
