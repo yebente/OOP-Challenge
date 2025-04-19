@@ -115,6 +115,12 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 - **Email**: [lisanzatabitha@gmail.com](mailto:lisanzatabitha@gmail.com)
 - **GitHub**: [@lisanzatabby](https://github.com/lisanzaTabby)
 
+#### Berlyn Mumbua Mutinda
+
+- **Role**:  Implementing init methods with rules
+- **Email**: [berlynmumbua@gmail.com](mailto:berlynmumbua@gmail.com)
+- **GitHub**: [@mumbua-mutinda](https://github.com/mumbua-mutinda)
+
 #### RODGERS MARAGIA
 
 - **Role**: Code testing, Review correct code workability and Error Correction/debugging.
